@@ -1,7 +1,7 @@
 <h1 align=center>Hello, I am Sandhya Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DSA%20|%20Cometitive+Programming%20|Java%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DSA%20|%20Competitive+Programming%20|Java%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
 </p>
 
 <h1>About Me</h1>
